@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rezaul Islam</h1>
+<h1 align="center">Hi 👋, I'm Rezaul </h1>
 <h3 align="center">A data analysis and machine learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezaul61&label=Profile%20views&color=0e75b6&style=flat" alt="rezaul61" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Data Analysis, Power BI**
 
-- 👨‍💻 All of my projects are available at [https://rezaul6162.carrd.co](https://rezaul6162.carrd.co)
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/rezauls-portfolio?usp=sharing](https://sites.google.com/view/rezauls-portfolio?usp=sharing)
 
 - 💬 Ask me about **Analyze, Predict, Interpret**
 
 - 📫 How to reach me **rezaulislamrakib21@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAGncQQNRRE/nW9WCuu3UX_EFA2ZcxhfFQ/edit?utm_content=DAGncQQNRRE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGncQQNRRE/nW9WCuu3UX_EFA2ZcxhfFQ/edit?utm_content=DAGncQQNRRE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **I exploring future**
 
@@ -29,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaul61&show_icons=true&locale=en&layout=compact" alt="rezaul61" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezaul61&show_icons=true&locale=en" alt="rezaul61" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezaul61&" alt="rezaul61" /></p>
